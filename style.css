@@ -182,7 +182,7 @@ input[type="submit"] {
   color: #fff;
   font-weight: 500;
 }
-.reserved {
+p.reserved {
   font-size: 15px;
   color: #fff;
 }
