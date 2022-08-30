@@ -1,0 +1,46 @@
+.hero_section {
+  background: url("./images/vecteezy_hand-showing-a-light-bulb-and-gear-symbol_2306959.jpg")
+    no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+.search_box {
+    max-width: 700px;
+    margin: 45px auto !important;
+}
+.search_btn {
+    padding: 5px 15px;
+    font-size: 13px !important;
+    font-weight: 700 !important;
+    border-radius: 12px;
+    border: 0px solid gray;
+    background-color: darkgray;
+    color: #fff;
+}
+.card {
+    width: 15rem !important;
+    border: 4px solid cornflowerblue;
+    padding: 10px;
+}
+h5.card-title {
+    font-weight: 500;
+    color: gray;
+}
+p.card-text {
+    font-weight: 400;
+    color: gray;
+}
+p.card-text span {
+    color: #000;
+    font-weight: 700;
+    font-size: 18px;
+}
+.card-img-top {
+    max-height: 150px !important;
+}
+
+@media screen and (max-width: 575px) {
+    .hero_section {
+        margin-top: 130px;
+    }
+}
