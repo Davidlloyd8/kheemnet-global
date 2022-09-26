@@ -1,8 +1,13 @@
-.hero_section {
-  background: url("./images/vecteezy_hand-showing-a-light-bulb-and-gear-symbol_2306959.jpg")
-    no-repeat;
-  background-size: cover;
-  height: 500px;
+section {
+  background-color: cornflowerblue;
+  height: 250px;
+}
+section h1 {
+  padding-top: 150px;
+  text-align: center;
+  font-family: "Montserrat";
+  font-weight: 700;
+  color: #fff;
 }
 .search_box {
   max-width: 700px;
